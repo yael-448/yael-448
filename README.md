@@ -1,72 +1,72 @@
 <div align="center">
 
-# 👋 Hi, I'm Yael Kroizer
-### **Full Stack Developer | Practical Software Engineer**
+# 🎨 Yael Kroizer
+### 🌟 **Full Stack Developer | Practical Software Engineer** 🌟
 
-  [![Email](https://img.shields.io/badge/Email-5714457k%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:5714457k@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-yael--448-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yael-448)
+[![Email](https://img.shields.io/badge/Email-5714457k%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:5714457k@gmail.com)
+[![Status](https://img.shields.io/badge/Status-Open_for_Opportunities-4285F4?style=for-the-badge)](mailto:5714457k@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Israel-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 <br>
 
-> 🚀 *Building scalable, enterprise-grade Web Applications & Microservices with clean architecture, high performance, and cutting-edge AI integration.*
+> 🚀 Building Scalable Web Apps | ⚙️ Microservices & Architecture | 🤖 AI & Agent Integrations
 
 </div>
 
 ---
 
-## ⚡ Executive Summary
+## ✨ About Me & Highlights
 
-Full Stack Developer and Practical Software Engineer (**GPA 95+ / Graduated with Highest Honors**) with hands-on experience in engineering end-to-end web applications, dynamic automation tools, and distributed architectures. 
-
-Experienced in modern **Angular 19** and **C# (.NET Core)** environments, with deep expertise in **AI Engineering** (MCP, RAG, LLM Frameworks, Prompt Engineering). Driven by **Clean Code**, **SOLID Architecture**, and **DRY** principles.
+* 🎓 **Academic Excellence:** Graduated in Practical Software Engineering (**GPA 95+ / Highest Honors**).
+* 🏛️ **Enterprise Experience:** Full Stack Developer at the **Ministry of Education**, engineering complex Angular 19 & .NET Core systems.
+* 🤖 **AI Integration:** Advanced expertise in **Model Context Protocol (MCP)**, Autonomous AI Agents, RAG, and Prompt Engineering.
+* 💡 **Core Mindset:** Clean Code, SOLID Principles, High Performance, and DRY Architecture.
 
 ---
 
-## 🛠️ Technological Toolkit
+## 🎨 Tech Stack & Skills Matrix
 
 <table>
   <tr>
-    <td align="center" width="50%"><b>🤖 AI & Infrastructure (Core Focus)</b></td>
-    <td align="center" width="50%"><b>⚙️ Server-Side & Architecture</b></td>
+    <td align="center" width="50%" bgcolor="#f6f8fa"><b>🤖 AI & Next-Gen Tech</b></td>
+    <td align="center" width="50%" bgcolor="#f6f8fa"><b>⚙️ Backend & Architecture</b></td>
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-000000?style=flat-square&logo=openai&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/RAG_%26_Embeddings-007ACC?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/LLM_Frameworks_(LangChain_/_LlamaIndex)-008080?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/GitHub_Copilot_/_Cursor_/_Amazon_Q-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
+      <img src="[https://img.shields.io/badge/MCP-Model_Context_Protocol-000000?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/MCP-Model_Context_Protocol-000000?style=for-the-badge&logo=openai&logoColor=white)" /><br>
+      <img src="[https://img.shields.io/badge/RAG-Embeddings_%26_Vector_Search-007ACC?style=for-the-badge](https://img.shields.io/badge/RAG-Embeddings_%26_Vector_Search-007ACC?style=for-the-badge)" /><br>
+      <img src="[https://img.shields.io/badge/LLMs-LangChain_%2F_LlamaIndex-008080?style=for-the-badge](https://img.shields.io/badge/LLMs-LangChain_%2F_LlamaIndex-008080?style=for-the-badge)" /><br>
+      <img src="[https://img.shields.io/badge/Prompt-Engineering-FF6F00?style=for-the-badge](https://img.shields.io/badge/Prompt-Engineering-FF6F00?style=for-the-badge)" /><br>
+      <img src="[https://img.shields.io/badge/Copilot-GitHub_%2F_Cursor_%2F_Amazon_Q-6f42c1?style=for-the-badge&logo=githubcopilot&logoColor=white](https://img.shields.io/badge/Copilot-GitHub_%2F_Cursor_%2F_Amazon_Q-6f42c1?style=for-the-badge&logo=githubcopilot&logoColor=white)" />
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/.NET_Core_/_C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" /><br>
-      <code>Microservices Architecture</code> | <code>Event-Driven</code><br>
-      <code>Choreography Saga Pattern</code> | <code>RESTful APIs</code>
+      <img src="[https://img.shields.io/badge/.NET_Core-C%23_9.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white](https://img.shields.io/badge/.NET_Core-C%23_9.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)" />
+      <img src="[https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)" /><br>
+      <img src="[https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)" />
+      <img src="[https://img.shields.io/badge/Java-Enterprise-ED8B00?style=for-the-badge&logo=java&logoColor=white](https://img.shields.io/badge/Java-Enterprise-ED8B00?style=for-the-badge&logo=java&logoColor=white)" /><br>
+      <img src="[https://img.shields.io/badge/Architecture-Microservices_%2F_Saga_Pattern-FF4500?style=for-the-badge](https://img.shields.io/badge/Architecture-Microservices_%2F_Saga_Pattern-FF4500?style=for-the-badge)" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%"><b>💻 Client-Side & Frontend</b></td>
-    <td align="center" width="50%"><b>📊 Data, Cloud & DevOps</b></td>
+    <td align="center" width="50%" bgcolor="#f6f8fa"><b>💻 Frontend & UI/UX</b></td>
+    <td align="center" width="50%" bgcolor="#f6f8fa"><b>☁️ Cloud, Databases & DevOps</b></td>
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://img.shields.io/badge/Angular_19-DD0031?style=flat-square&logo=angular&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br>
-      <code>HTML5</code> | <code>CSS3</code> | <code>Figma UI/UX Adaptation</code>
+      <img src="[https://img.shields.io/badge/Angular_19-Latest-DD0031?style=for-the-badge&logo=angular&logoColor=white](https://img.shields.io/badge/Angular_19-Latest-DD0031?style=for-the-badge&logo=angular&logoColor=white)" />
+      <img src="[https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black)" /><br>
+      <img src="[https://img.shields.io/badge/TypeScript-Core-3178C6?style=for-the-badge&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-Core-3178C6?style=for-the-badge&logo=typescript&logoColor=white)" />
+      <img src="[https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)" /><br>
+      <img src="[https://img.shields.io/badge/Figma-UI%2FUX_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white](https://img.shields.io/badge/Figma-UI%2FUX_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)" />
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <img src="[https://img.shields.io/badge/SQL_Server-Database-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white](https://img.shields.io/badge/SQL_Server-Database-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)" />
+      <img src="[https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white](https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)" /><br>
+      <img src="[https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)" />
+      <img src="[https://img.shields.io/badge/Redis-Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white](https://img.shields.io/badge/Redis-Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white)" />
+      <img src="[https://img.shields.io/badge/RabbitMQ-Messaging-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white](https://img.shields.io/badge/RabbitMQ-Messaging-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)" /><br>
+      <img src="[https://img.shields.io/badge/Azure_DevOps-CI%2FCD-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white](https://img.shields.io/badge/Azure_DevOps-CI%2FCD-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)" />
+      <img src="[https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)" />
     </td>
   </tr>
 </table>
@@ -75,36 +75,36 @@ Experienced in modern **Angular 19** and **C# (.NET Core)** environments, with d
 
 ## 💼 Professional Experience
 
-### 🏛️ **Software Developer (Practicum)** — *Ministry of Education* `(2026 – Present)`
-* **Full Stack & Web APIs:** End-to-end development of the **IRG System** (Organizational Unit Management) featuring an interactive hierarchical tree in **Angular 19**, backed by **C# (.NET Core)** RESTful APIs with secure authentication and CRUD operations.
-* **Base Template Architecture:** Consolidated and upgraded enterprise components into a unified infrastructure project, enforcing strict architectural/visual standards and technical documentation.
-* **Dynamic Project Generator:** Developed an interactive interface and **Python** automation scripts to auto-generate, configure, and initialize new projects from base templates.
-* **UI/UX & Quality:** Translated complex Figma designs into responsive interfaces, ensuring edge-case bug handling and robust software release pipelines.
-* **AI & DevOps Workflows:** Accelerated development using **Amazon Q**, managed version control via **Azure DevOps & Git**, and performed API testing via Postman.
+### 🏛️ **Software Developer (Practicum)** | *Ministry of Education* `(2026 – Present)`
+> 🔹 **IRG Hierarchy System:** Full-stack development using **Angular 19** and **C# (.NET Core)** RESTful APIs with complex CRUD & secure authentication.  
+> 🔹 **Base Template Infrastructure:** Engineered unified architectural templates and enterprise documentation.  
+> 🔹 **Dynamic Project Generator:** Built interactive interfaces and **Python** tools to automate new project scaffolding.  
+> 🔹 **UI/UX & Quality:** Transformed Figma designs into pixel-perfect components and handled end-to-edge testing.  
+> 🔹 **AI Acceleration:** Streamlined development with **Amazon Q**, **Azure DevOps**, and **Postman**.
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Key Projects
 
-### 🏗️ **Distributed Event-Driven E-Commerce Platform**
+### 🏗️ **Distributed Microservices E-Commerce Platform**
 *`C# .NET 8` • `Docker` • `RabbitMQ` • `Redis` • `MongoDB` • `SQL Server` • `GitHub Actions`*
-* **Microservices & Polyglot Persistence:** Decomposed monolithic architecture into 4 independent microservices (*Orders, Products, Inventory, Notifications*) using *Database-per-Service*.
-* **Asynchronous Messaging & Saga Pattern:** Handled distributed transactions using **Choreography Saga Pattern** with **RabbitMQ**, incorporating compensation logic and fault-tolerance mechanisms.
-* **Performance & Infrastructure:** Implemented API Gateway (BFF), Nginx load balancing, Redis distributed caching (*Cache-Aside*), Serilog correlation tracking, and CI/CD pipelines via GitHub Actions.
+* **Architecture:** Decomposed system into 4 independent services with *Database-per-Service*.
+* **Event-Driven:** Implemented **Choreography Saga Pattern** with RabbitMQ for distributed transactions.
+* **DevOps & Performance:** API Gateway, Redis Caching, Nginx load balancing, and automated GitHub Actions CI/CD pipelines.
 
 ### 🎟️ **Lottery & Donation Management System**
-*`C#` • `Angular 19` • `ASP.NET Core Web API` • `SQL Server`*
-* **Full Stack Architecture:** Interactive Angular 19 frontend integrated with modular C# RESTful APIs following layered architecture and Dependency Injection.
-* **Business Logic:** Managed secure donor authentication, ticket sales, gift lotteries, dynamic winner calculations, and user profiles.
+*`C# .NET` • `Angular 19` • `SQL Server` • `JWT`*
+* **Full Stack Solution:** Modular RESTful APIs with Angular 19 frontend, Dependency Injection, and strict layered architecture.
+* **Core Modules:** Campaign ticketing, donor management, dynamic winner selection, and automated notification systems.
 
 ---
 
-## 🎓 Education & Achievements
+## 🎓 Education & Honors
 
-* 🏆 **Practical Software Engineering Diploma (מה"ט)** — *New Seminar, Jerusalem* `(2024 – 2026)`
-  * **Graduated with Highest Honors (בהצטיינות יתרה)** | **GPA: 95+**
-* 📜 **High School Diploma** — *Beit Yaakov Center* `(2020 – 2024)`
-  * Passed Szold examinations with distinction | **GPA: 95+**
+* 🏆 **Practical Software Engineering (מה"ט)** `(2024 – 2026)`
+  * **Graduated with Highest Honors** | **GPA: 95+**
+* 📜 **High School Diploma** `(2020 – 2024)`
+  * Distinction in Szold exams | **GPA: 95+**
 
 ---
 
