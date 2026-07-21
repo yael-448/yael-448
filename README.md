@@ -3,6 +3,7 @@
 # Yael Kroizer
 ### **Full Stack Developer | Practical Software Engineer**
 
+[![Phone](https://img.shields.io/badge/Phone-0548478448-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:0548478448)
 [![Email](https://img.shields.io/badge/Email-5714457k%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:5714457k@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Israel-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
